@@ -1,6 +1,6 @@
 # git-together
 
-This custom git command allows you to see which how often files were committed together.
+This is a custom git command. It allows you to see which files were committed together with a target file in the past. The result is sorted by the amount of times they appear in the same commit.
 
 Usage
 -----
